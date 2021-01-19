@@ -1,0 +1,1 @@
+teghLibrary.js
